@@ -6,7 +6,8 @@ Regression is a technique for  investigating the relationship between independen
 
 ## Data Source ##
 
-    The Health Insurance dataset from Kaggle has been used and the model has been trained on attributes like age, sex, BMI, children, smoker and region. 
+    The Health Insurance dataset from Kaggle has been used and the model has been trained on attributes 
+    like age, sex, BMI, children, smoker and region. 
 
 ### Attribute table ###
 
