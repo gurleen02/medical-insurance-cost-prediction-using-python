@@ -26,8 +26,8 @@ S.No. | Attribute | Remarks
 
 ### Step 1: Import the required modules ###
 
-    import pandas as pd <br>
-    import numpy as np <br>
+    import pandas as pd
+    import numpy as np 
     
     ----- OR -----
     
