@@ -23,6 +23,8 @@ S.No. | Attribute | Remarks
 
 ### Flowchart of the Proposed Algorithm ###
 
+![image](https://user-images.githubusercontent.com/83334761/189598718-99b8db6e-4eb7-44cc-969a-038de16044d5.png)
+
 
 ### Step 1: Import the required modules ###
 
